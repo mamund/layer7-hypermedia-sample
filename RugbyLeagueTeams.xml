@@ -1,0 +1,153 @@
+<response>
+	<sports>
+		<sportsItem>
+			<name>rugby league</name>
+			<id>1</id>
+			<leagues>
+				<leaguesItem>
+					<id>10</id>
+					<groupId>9</groupId>
+					<name>National Rugby League</name>
+					<abbreviation>NRL</abbreviation>
+					<teams>
+						<teamsItem>
+							<id>1</id>
+							<location>Melbourne</location>
+							<name>Storm</name>
+							<abbreviation>MS</abbreviation>
+							<color>000000</color>
+							<logo>http://www.melbournestorm.com.au/site/_template/ms/images/storm-emblem.png</logo>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>3</id>
+							<location>Canterbury</location>
+							<name>Bull Dogs</name>
+							<abbreviation>CB</abbreviation>
+							<color>00314B</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>2</id>
+							<location>Cronulla</location>
+							<name>Sharks</name>
+							<abbreviation>CS</abbreviation>
+							<color>DC2024</color>
+							<logo>http://www.sharks.com.au/site/_template/cs/images/sharks-emblem.png</logo>
+						</teamsItem>
+						<teamsItem>
+							<id>4</id>
+							<location>Brisbane</location>
+							<name>Broncos</name>
+							<abbreviation>BB</abbreviation>
+							<color>000000</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>5</id>
+							<location>Manly</location>
+							<name>Sea Eagles</name>
+							<abbreviation>MS</abbreviation>
+							<color>00314B</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>6</id>
+							<location>South Sydney</location>
+							<name>Rabbitohs</name>
+							<abbreviation>DET</abbreviation>
+							<color>00314B</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>7</id>
+							<location>North Queensland</location>
+							<name>Cowboys</name>
+							<abbreviation>NC</abbreviation>
+							<color>004B7F</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>8</id>
+							<location>New Zealand</location>
+							<name>Warriors</name>
+							<abbreviation>NZW</abbreviation>
+							<color>050C33</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>9</id>
+							<location>Wests</location>
+							<name>Tigers</name>
+							<abbreviation>WT</abbreviation>
+							<color>051C43</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>10</id>
+							<location>St. George</location>
+							<name>Dragons</name>
+							<abbreviation>STG</abbreviation>
+							<color>051C43</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>11</id>
+							<location>Canberra</location>
+							<name>Raiders</name>
+							<abbreviation>CR</abbreviation>
+							<color>00441E</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>12</id>
+							<location>Sydney</location>
+							<name>Roosters</name>
+							<abbreviation>SR</abbreviation>
+							<color>0C2C56</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>13</id>
+							<location>Gold Coast</location>
+							<name>Titans</name>
+							<abbreviation>GCT</abbreviation>
+							<color>16278E</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>14</id>
+							<location>Newcastle</location>
+							<name>Knights</name>
+							<abbreviation>NK</abbreviation>
+							<color>4F5556</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>15</id>
+							<location>Penrith</location>
+							<name>Panthers</name>
+							<abbreviation>PP</abbreviation>
+							<color>00486D</color>
+							
+						</teamsItem>
+						<teamsItem>
+							<id>16</id>
+							<location>Paramatta</location>
+							<name>Eels</name>
+							<abbreviation>PE</abbreviation>
+							<color>005682</color>
+							
+						</teamsItem>
+						
+					</teams>
+				</leaguesItem>
+			</leagues>
+		</sportsItem>
+	</sports>
+	<resultsOffset>0</resultsOffset>
+	<resultsLimit>50</resultsLimit>
+	<resultsCount>30</resultsCount>
+	<timestamp>2012-07-10T01:21:01Z</timestamp>
+	<status>success</status>
+</response>
